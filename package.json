@@ -23,7 +23,7 @@
     "electron": "29.1.4"
   },
   "keywords": [],
-  "author": "zbour",
+  "author": "Zakaria BOURMADA",
   "license": "MIT",
   "dependencies": {
     "electron-squirrel-startup": "^1.0.0"
